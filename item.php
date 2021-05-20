@@ -176,7 +176,7 @@ cache: false
         </div>
 
 		<div style="text-align:center;" class="control save-btn ui-btn-center" data-inline="true" >
-		<a href="#" class="save" data-inline="true"  data-icon="check" data-iconpos="left" data-role="button" data-theme="d" data-mini="true">Save</a>
+		<a href="#" class="save" data-inline="true"  data-icon="check" data-iconpos="left" data-role="button" data-theme="d" data-mini="true">Save Please</a>
 		<a href="#" class="cancel" data-inline="true"  data-icon="delete" data-iconpos="left" data-role="button" data-theme="d" data-mini="true">Cancel</a>
 		</div>
 
